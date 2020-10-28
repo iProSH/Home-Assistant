@@ -1,0 +1,5 @@
+mqtt:
+  broker: core-mosquitto
+  discovery: true
+  username: user
+  password: pass
