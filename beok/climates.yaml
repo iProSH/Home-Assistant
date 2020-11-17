@@ -1,7 +1,8 @@
-# *****Integration Beok Bot-313 - Broadlink wifi module -******
+# ***** Video manual https://www.youtube.com/watch?v=lpx6feJpGcc ****** 
+# ***** Configuration Beok Bot-313 - Broadlink wifi module - *****
 climate:
   platform: beok
   name: beok_your_room
   mac: **:**:**:**:**:**
-  host: 192.168.***.***
+  host: ***.***.***.***
   use_external_temp: false
