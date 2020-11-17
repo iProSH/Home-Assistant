@@ -1,0 +1,8 @@
+{
+  "domain": "beok",
+  "name": "Beok Thermostat",
+  "documentation": "Video manual https://www.youtube.com/watch?v=lpx6feJpGcc",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["pythoncrc", "broadlink==0.13.0"]
+}
