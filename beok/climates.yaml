@@ -1,0 +1,7 @@
+# *****Integration Beok Bot-313 - Broadlink wifi module -******
+climate:
+  platform: beok
+  name: beok_your_room
+  mac: **:**:**:**:**:**
+  host: 192.168.***.***
+  use_external_temp: false
