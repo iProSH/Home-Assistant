@@ -107,7 +107,3 @@
     name: "power_counter_lastyear"
     state_topic: "tele/power/lastyear"
     unit_of_measurement: "кВт⋅ч"
-  - platform: mqtt
-    name: Bridge state
-    state_topic: "zigbee2mqtt/bridge/state"
-    icon: mdi:router-wireless
