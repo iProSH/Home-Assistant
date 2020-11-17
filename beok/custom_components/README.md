@@ -1,5 +1,6 @@
 # Intro
-Ho to set up see here: 
+Ho to set up see here: https://www.youtube.com/watch?v=lpx6feJpGcc
+# ***** Configuration Beok Bot-313 - Broadlink wifi module - *****
 Component for controlling (Beok and others). Climate component will have 3 modes: "auto" (in which will used thermostat's internal schedule), "heat (which is "manual" mode) and "off". Also, while in "heat" mode it is possible to use preset "away". Changing mode to other than "heat" will set preset to "none".  
 If you want to use custom or more advanced controll, you should use switch component and generic thermostat in Home Assistant instead. See below for configuration.
 
